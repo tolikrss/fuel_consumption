@@ -1,4 +1,4 @@
-Model-Year,Make,Model,Vehicle-Class,Engine-Size,Cylinders,Transmission,Fuel-Type,Fuel-Consumption-City,Fuel-Consumption-Hwy,Fuel-Consumption-Comb,CO2-Emissions
+Year,Make,Model,Class,EngineSize,Cylinders,Transmission,FuelType,FuelConsumptionCity,FuelConsumptionHwy,FuelConsumptionComb,CO2Emissions
 2019,Acura,ILX,Compact,2.4,4,AM8,Z,9.9,7,8.6,199
 2019,Acura,MDX SH-AWD,SUV: Small,3.5,6,AS9,Z,12.2,9,10.8,252
 2019,Acura,MDX SH-AWD A-SPEC,SUV: Small,3.5,6,AS9,Z,12.2,9.5,11,258
